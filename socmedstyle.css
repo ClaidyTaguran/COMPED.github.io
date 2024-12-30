@@ -1,0 +1,754 @@
+.social-media {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.social-media .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1520px;
+    height: 900px;
+}
+.social-media .overlap {
+    position: relative;
+    width: 1629px;
+    height: 989px;
+}
+.social-media .bg {
+    position: absolute;
+    width: 1520px;
+    height: 900px;
+    top: 0;
+    left: 0;
+    background-color: #00142b;
+}
+.social-media .whitebg {
+    position: absolute;
+    width: 1511px;
+    height: 963px;
+    top: 0;
+    left: 118px;
+    background-color: #ffffff;
+    border-radius: 52px;
+}
+.social-media .boxbg {
+    position: absolute;
+    width: 64px;
+    height: 269px;
+    top: 23px;
+    left: 28px;
+}
+.social-media .logo {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+.social-media .overlap-group {
+    position: absolute;
+    width: 44px;
+    height: 48px;
+    top: 66px;
+    left: 10px;
+    background-color: #213a58;
+    border-radius: 7px;
+}
+.social-media .home {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 13px;
+    left: 10px;
+}
+.social-media .wline {
+    position: absolute;
+    width: 58px;
+    height: 1px;
+    top: 121px;
+    left: 5px;
+    object-fit: cover;
+}
+.social-media .chat {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 140px;
+    left: 20px;
+}
+.social-media .event {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 192px;
+    left: 20px;
+}
+.social-media .book {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 244px;
+    left: 19px;
+}
+.social-media .faces {
+    position: absolute;
+    width: 1323px;
+    height: 90px;
+    top: 25px;
+    left: 165px;
+}
+.social-media .img {
+    position: absolute;
+    width: 688px;
+    height: 50px;
+    top: 23px;
+    left: 0;
+}
+.social-media .jebel-benj-conarcs {
+    position: absolute;
+    top: 78px;
+    left: 9px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+.social-media .text-wrapper {
+    position: absolute;
+    top: 0;
+    left: 2px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+.social-media .profile {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    top: 14px;
+    left: 1159px;
+    object-fit: cover;
+}
+.social-media .jeriebel-bulac {
+    position: absolute;
+    top: 21px;
+    left: 1211px;
+    font-family: "Istok Web-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .span {
+    color: #686262;
+}
+.social-media .text-wrapper-2 {
+    color: #00f110;
+}
+.social-media .notif {
+    position: absolute;
+    width: 13px;
+    height: 16px;
+    top: 30px;
+    left: 1100px;
+}
+.social-media .light {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 30px;
+    left: 1126px;
+}
+.social-media .settings {
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    top: 833px;
+    left: 52px;
+}
+.social-media .searchbar {
+    position: absolute;
+    width: 345px;
+    height: 34px;
+    top: 98px;
+    left: 1138px;
+}
+.social-media .div {
+    position: relative;
+    width: 343px;
+    height: 34px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #bdb4b4;
+}
+.social-media .search {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 9px;
+    left: 27px;
+}
+.social-media .text-wrapper-3 {
+    position: absolute;
+    width: 105px;
+    top: 11px;
+    left: 50px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #6f6f6f;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .createpost {
+    position: absolute;
+    width: 900px;
+    height: 121px;
+    top: 154px;
+    left: 165px;
+}
+.social-media .overlap-2 {
+    position: relative;
+    width: 894px;
+    height: 121px;
+    background-color: #ffffff;
+    border-radius: 17px;
+    border: 1px solid;
+    border-color: #a7a7a7;
+}
+.social-media .overlap-group-2 {
+    position: absolute;
+    width: 812px;
+    height: 35px;
+    top: 31px;
+    left: 28px;
+    background-color: #e7e7e7;
+    border-radius: 16px;
+}
+.social-media .profile-2 {
+    position: absolute;
+    width: 36px;
+    height: 34px;
+    top: 1px;
+    left: 0;
+    object-fit: cover;
+}
+.social-media .text-wrapper-4 {
+    position: absolute;
+    width: 112px;
+    top: 14px;
+    left: 44px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #615b5b;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .files {
+    position: absolute;
+    width: 21px;
+    height: 24px;
+    top: 78px;
+    left: 27px;
+}
+.social-media .overlap-3 {
+    position: absolute;
+    width: 244px;
+    height: 24px;
+    top: 81px;
+    left: 51px;
+}
+.social-media .photos {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    top: 0;
+    left: 46px;
+}
+.social-media .tags {
+    position: absolute;
+    width: 17px;
+    height: 21px;
+    top: 1px;
+    left: 128px;
+}
+.social-media .links {
+    position: absolute;
+    width: 21px;
+    height: 20px;
+    top: 2px;
+    left: 194px;
+}
+.social-media .files-photos-tag {
+    position: absolute;
+    width: 244px;
+    top: 7px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .div-wrapper {
+    position: absolute;
+    width: 70px;
+    height: 27px;
+    top: 79px;
+    left: 770px;
+    background-color: #3b3838;
+    border-radius: 19px;
+}
+.social-media .text-wrapper-5 {
+    position: absolute;
+    width: 23px;
+    top: 8px;
+    left: 23px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .element {
+    position: absolute;
+    width: 4px;
+    height: 18px;
+    top: 10px;
+    left: 860px;
+}
+.social-media .timeline {
+    position: absolute;
+    width: 894px;
+    height: 697px;
+    top: 292px;
+    left: 167px;
+}
+.social-media .post {
+    position: absolute;
+    width: 901px;
+    height: 256px;
+    top: 27px;
+    left: 1px;
+}
+.social-media .overlap-group-3 {
+    position: relative;
+    width: 891px;
+    height: 256px;
+    background-color: #ffffff;
+    border-radius: 17px;
+    border: 1px solid;
+    border-color: #8d8d8d;
+}
+.social-media .narco {
+    position: absolute;
+    width: 34px;
+    height: 30px;
+    top: 32px;
+    left: 17px;
+    object-fit: cover;
+}
+.social-media .john-michael-conarco {
+    position: absolute;
+    top: 38px;
+    left: 57px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .text-wrapper-6 {
+    color: #5f5c5c;
+}
+.social-media .text-wrapper-7 {
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+    color: #ffe900;
+}
+.social-media .magbabalik-ang {
+    position: absolute;
+    top: 81px;
+    left: 28px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 13px;
+}
+.social-media .comment {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 212px;
+    left: 95px;
+}
+.social-media .text-wrapper-8 {
+    position: absolute;
+    top: 215px;
+    left: 42px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #867d7d;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+    white-space: nowrap;
+}
+.social-media .text-wrapper-9 {
+    position: absolute;
+    top: 216px;
+    left: 118px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #867d7d;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+    white-space: nowrap;
+}
+.social-media .text-wrapper-10 {
+    position: absolute;
+    top: 216px;
+    left: 224px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #867d7d;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+    white-space: nowrap;
+}
+.social-media .heart {
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    top: 211px;
+    left: 18px;
+}
+.social-media .share {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 212px;
+    left: 201px;
+}
+.social-media .element-dot {
+    top: 20px;
+    left: 858px;
+    position: absolute;
+    width: 4px;
+    height: 18px;
+}
+.social-media .text-wrapper-11 {
+    position: absolute;
+    top: 0;
+    left: 12px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 16.9px;
+    white-space: nowrap;
+}
+.social-media .bropost {
+    position: absolute;
+    width: 898px;
+    height: 398px;
+    top: 299px;
+    left: 0;
+}
+.social-media .overlap-4 {
+    position: relative;
+    width: 892px;
+    height: 398px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #8d8d8d;
+}
+.social-media .reacts {
+    position: absolute;
+    width: 252px;
+    height: 21px;
+    top: 353px;
+    left: 20px;
+}
+.social-media .comment-2 {
+    position: absolute;
+    width: 19px;
+    height: 18px;
+    top: -6622px;
+    left: -54558px;
+}
+.social-media .text-wrapper-12 {
+    position: absolute;
+    width: 24px;
+    top: 4px;
+    left: 23px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #867d7d;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+}
+.social-media .text-wrapper-13 {
+    position: absolute;
+    width: 58px;
+    top: 5px;
+    left: 103px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #867d7d;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+}
+.social-media .text-wrapper-14 {
+    position: absolute;
+    width: 34px;
+    top: 5px;
+    left: 212px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #867d7d;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+}
+.social-media .heart-2 {
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    top: -6623px;
+    left: -54637px;
+}
+.social-media .share-2 {
+    position: absolute;
+    width: 19px;
+    height: 18px;
+    top: -6622px;
+    left: -54449px;
+}
+.social-media .seminars {
+    position: absolute;
+    width: 846px;
+    height: 210px;
+    top: 98px;
+    left: 21px;
+    object-fit: cover;
+}
+.social-media .p {
+    position: absolute;
+    width: 268px;
+    top: 68px;
+    left: 20px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #0f0f0f;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .overlap-group-4 {
+    position: absolute;
+    width: 374px;
+    height: 23px;
+    top: 25px;
+    left: 59px;
+}
+.social-media .text-wrapper-15 {
+    position: absolute;
+    width: 59px;
+    top: 0;
+    left: 103px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #535252;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .kyle-zymund-c-grapa {
+    width: 374px;
+    top: 1px;
+    left: 0;
+    color: transparent;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .text-wrapper-16 {
+    color: #000000;
+}
+.social-media .bro {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 18px;
+    left: 18px;
+    object-fit: cover;
+}
+.social-media .element-2 {
+    top: 29px;
+    left: 859px;
+    position: absolute;
+    width: 4px;
+    height: 18px;
+}
+.social-media .suggestions {
+    position: absolute;
+    width: 362px;
+    height: 422px;
+    top: 183px;
+    left: 1131px;
+}
+.social-media .conarcs {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 49px;
+    left: 2px;
+    object-fit: cover;
+}
+.social-media .kenneth {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 118px;
+    left: 2px;
+    object-fit: cover;
+}
+.social-media .kyle {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 187px;
+    left: 2px;
+    object-fit: cover;
+}
+.social-media .john-michael-conarco-2 {
+    top: 67px;
+    left: 62px;
+    color: #000000;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .overlap-5 {
+    position: absolute;
+    width: 73px;
+    height: 32px;
+    top: 58px;
+    left: 272px;
+    background-color: #00aaff;
+    border-radius: 32px;
+}
+.social-media .text-wrapper-17 {
+    position: absolute;
+    top: 10px;
+    left: 21px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .overlap-6 {
+    position: absolute;
+    width: 73px;
+    height: 32px;
+    top: 125px;
+    left: 272px;
+    background-color: #ffffff;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #807d7d;
+}
+.social-media .text-wrapper-18 {
+    position: absolute;
+    top: 9px;
+    left: 14px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #494343;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.social-media .overlap-7 {
+    position: absolute;
+    width: 73px;
+    height: 32px;
+    top: 192px;
+    left: 272px;
+    background-color: #ffffff;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #807d7d;
+}
+.social-media .wline-2 {
+    position: absolute;
+    width: 348px;
+    height: 1px;
+    top: 260px;
+    left: 2px;
+    object-fit: cover;
+}
+.social-media .text-wrapper-19 {
+    position: absolute;
+    top: 269px;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+.social-media .jobs {
+    position: absolute;
+    width: 350px;
+    height: 120px;
+    top: 302px;
+    left: 0;
+}
+
+.active {
+    background-color: #213a58; /* Light blue rectangle */
+    border-radius: 8px; /* Rounded corners */
+    padding: 8px;
+}
+
+.hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.1); /* Subtle highlight on hover */
+    border-radius: 8px;
+}

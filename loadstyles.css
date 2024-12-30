@@ -1,0 +1,77 @@
+.loginacc {
+    width: 1528px;
+    height: 740px;
+    background-color: #ffffff;
+}
+.loginacc .overlap-group {
+    position: relative;
+    height: 740px;
+    background-image: url(./img/bg.png);
+    background-size: 100% 100%;
+}
+.loginacc .compesa {
+    position: absolute;
+    width: 131px;
+    height: 130px;
+    top: 56px;
+    left: 696px;
+    object-fit: cover;
+}
+.loginacc .comped {
+    position: absolute;
+    width: 350px;
+    height: 95px;
+    top: 256px;
+    left: 587px;
+    object-fit: cover;
+}
+.loginacc .user-line {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 232px;
+    left: 808px;
+}
+.loginacc .overlap {
+    position: absolute;
+    width: 317px;
+    height: 24px;
+    top: 498px;
+    left: 603px;
+}
+.loginacc .git-repository {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0;
+    left: 205px;
+}
+.loginacc .rectangle {
+    width: 317px;
+    background-color: #727272;
+    position: absolute;
+    height: 9px;
+    top: 15px;
+    left: 0;
+    border-radius: 32px;
+}
+.loginacc .div {
+    width: 14px;
+    background-color: #ffffff;
+    position: absolute;
+    height: 9px;
+    top: 15px;
+    left: 0;
+    border-radius: 32px;
+}
+.loginacc .comped-a-social {
+    position: absolute;
+    top: 376px;
+    left: 594px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+}
