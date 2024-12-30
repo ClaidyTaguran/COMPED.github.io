@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const loginLink = document.querySelector(".redirect a");
     loginLink.addEventListener("click", (event) => {
         event.preventDefault(); // Prevent default anchor behavior
-        window.location.href = "Login.html";
+        window.location.href = "login.html";
     });
 });
 
