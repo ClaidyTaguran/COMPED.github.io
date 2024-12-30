@@ -1,0 +1,473 @@
+.chatbox {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.chatbox .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1520px;
+    height: 900px;
+}
+.chatbox .overlap {
+    position: relative;
+    width: 1629px;
+    height: 963px;
+}
+.chatbox .bg {
+    position: absolute;
+    width: 1520px;
+    height: 900px;
+    top: 0;
+    left: 0;
+    background-color: #00142b;
+}
+.chatbox .whitebg {
+    position: absolute;
+    width: 1511px;
+    height: 963px;
+    top: 0;
+    left: 118px;
+    background-color: #ffffff;
+    border-radius: 52px;
+}
+.chatbox .group {
+    position: absolute;
+    width: 64px;
+    height: 269px;
+    top: 23px;
+    left: 28px;
+}
+.chatbox .logo {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+.chatbox .overlap-group {
+    position: absolute;
+    width: 44px;
+    height: 48px;
+    top: 66px;
+    left: 12px;
+    background-color: #213a58;
+    border-radius: 7px;
+}
+.chatbox .home {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 13px;
+    left: 8px;
+}
+.chatbox .wline {
+    position: absolute;
+    width: 58px;
+    height: 1px;
+    top: 121px;
+    left: 5px;
+    object-fit: cover;
+}
+.chatbox .chat {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 140px;
+    left: 20px;
+}
+.chatbox .event {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 192px;
+    left: 20px;
+}
+.chatbox .book {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 244px;
+    left: 19px;
+}
+.chatbox .div {
+    position: absolute;
+    width: 1323px;
+    height: 90px;
+    top: 25px;
+    left: 165px;
+}
+.chatbox .creators {
+    position: absolute;
+    width: 688px;
+    height: 50px;
+    top: 23px;
+    left: 0;
+}
+.chatbox .jebel-benj-conarcs {
+    position: absolute;
+    top: 78px;
+    left: 9px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+.chatbox .text-wrapper {
+    position: absolute;
+    top: 0;
+    left: 2px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+.chatbox .profile {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    top: 14px;
+    left: 1159px;
+    object-fit: cover;
+}
+.chatbox .jeriebel-bulac {
+    position: absolute;
+    top: 21px;
+    left: 1211px;
+    font-family: "Istok Web-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.chatbox .span {
+    color: #686262;
+}
+.chatbox .text-wrapper-2 {
+    color: #00f110;
+}
+.chatbox .notif {
+    position: absolute;
+    width: 13px;
+    height: 16px;
+    top: 30px;
+    left: 1100px;
+}
+.chatbox .light {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 30px;
+    left: 1126px;
+}
+.chatbox .settings {
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    top: 833px;
+    left: 52px;
+}
+.chatbox .searchbar {
+    position: absolute;
+    width: 345px;
+    height: 34px;
+    top: 98px;
+    left: 1138px;
+}
+.chatbox .overlap-2 {
+    position: relative;
+    width: 343px;
+    height: 34px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #bdb4b4;
+}
+.chatbox .search {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 9px;
+    left: 27px;
+}
+.chatbox .text-wrapper-3 {
+    position: absolute;
+    width: 105px;
+    top: 11px;
+    left: 50px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #6f6f6f;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.chatbox .overlap-group-wrapper {
+    position: absolute;
+    width: 932px;
+    height: 430px;
+    top: 163px;
+    left: 165px;
+}
+.chatbox .overlap-3 {
+    position: relative;
+    width: 920px;
+    height: 430px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+}
+.chatbox .overlap-group-2 {
+    position: absolute;
+    width: 920px;
+    height: 351px;
+    top: 79px;
+    left: 0;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+}
+.chatbox .kyle {
+    width: 40px;
+    height: 40px;
+    top: 51px;
+    left: 27px;
+    position: absolute;
+    object-fit: cover;
+}
+.chatbox .jebel {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 136px;
+    left: 848px;
+    object-fit: cover;
+}
+.chatbox .hi-jeriebel-sadasda-wrapper {
+    position: absolute;
+    width: 274px;
+    height: 63px;
+    top: 29px;
+    left: 86px;
+    background-color: #d9d9d9;
+    border-radius: 14px;
+}
+.chatbox .hi-jeriebel-sadasda {
+    position: absolute;
+    top: 19px;
+    left: 17px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #3f3f3f;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: 14.3px;
+}
+.chatbox .text-wrapper-4 {
+    position: absolute;
+    top: 74px;
+    left: 370px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #a09b9b;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 13px;
+    white-space: nowrap;
+}
+.chatbox .text-wrapper-5 {
+    position: absolute;
+    top: 156px;
+    left: 669px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #a09b9b;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 13px;
+    white-space: nowrap;
+}
+.chatbox .overlap-4 {
+    position: absolute;
+    width: 920px;
+    height: 67px;
+    top: 284px;
+    left: 0;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+}
+.chatbox .div-wrapper {
+    position: absolute;
+    width: 809px;
+    height: 44px;
+    top: 12px;
+    left: 28px;
+    background-color: #eeeaea;
+    border-radius: 7px;
+}
+.chatbox .text-wrapper-6 {
+    position: absolute;
+    top: 13px;
+    left: 12px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #a4a4a4;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 16.9px;
+    white-space: nowrap;
+}
+.chatbox .send-wrapper {
+    position: absolute;
+    width: 47px;
+    height: 44px;
+    top: 12px;
+    left: 855px;
+    background-color: #282828;
+    border-radius: 35px;
+}
+.chatbox .send {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 14px;
+    left: 12px;
+}
+.chatbox .overlap-5 {
+    position: absolute;
+    width: 96px;
+    height: 39px;
+    top: 136px;
+    left: 741px;
+    background-color: #213a58;
+    border-radius: 14px;
+}
+.chatbox .text-wrapper-7 {
+    position: absolute;
+    top: 12px;
+    left: 30px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: 14.3px;
+    white-space: nowrap;
+}
+.chatbox .img {
+    width: 40px;
+    height: 40px;
+    top: 25px;
+    left: 27px;
+    position: absolute;
+    object-fit: cover;
+}
+.chatbox .kyle-grapa-software {
+    top: 36px;
+    left: 79px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    line-height: 13px;
+    position: absolute;
+    font-size: 10px;
+    letter-spacing: 0;
+}
+.chatbox .text-wrapper-8 {
+    color: #343434;
+}
+.chatbox .text-wrapper-9 {
+    color: #ffe900;
+}
+.chatbox .arrowdown {
+    position: absolute;
+    width: 13px;
+    height: 8px;
+    top: 45px;
+    left: 186px;
+}
+.chatbox .x {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    top: 32px;
+    left: 872px;
+}
+.chatbox .group-2 {
+    position: absolute;
+    width: 354px;
+    height: 117px;
+    top: 165px;
+    left: 1125px;
+}
+.chatbox .kyle-2 {
+    width: 50px;
+    height: 50px;
+    top: 49px;
+    left: 5px;
+    position: absolute;
+    object-fit: cover;
+}
+.chatbox .text-wrapper-10 {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+.chatbox .kyle-grapa-hi {
+    top: 57px;
+    left: 67px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    line-height: normal;
+    position: absolute;
+    font-size: 10px;
+    letter-spacing: 0;
+}
+.chatbox .text-wrapper-11 {
+    position: absolute;
+    top: 81px;
+    left: 307px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #a09b9b;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 13px;
+    white-space: nowrap;
+}
+.chatbox .blackline {
+    position: absolute;
+    width: 348px;
+    height: 1px;
+    top: 115px;
+    left: 0;
+}
+
+.active {
+    background-color: rgba(30, 144, 255, 0.2);
+    border-radius: 8px;
+    }
+    .hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    }

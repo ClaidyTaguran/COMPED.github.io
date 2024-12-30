@@ -1,0 +1,392 @@
+.createacc {
+  width: 100%;
+  height: 100vh;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.createacc .overlap-group {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 50%; /* Occupy 50% of the screen */
+  height: 100%;
+  background-color: #ffffff; /* Ensure white background for left side */
+  padding: 80px; /* Add padding for alignment */
+  box-sizing: border-box;
+}
+
+.createacc .rectangle {
+  position: absolute;
+  width: 877px;
+  height: 720px;
+  top: 25px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 34px;
+}
+
+.createacc .create-your-account {
+  position: absolute;
+  top: 82px;
+  left: 107px;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.createacc .img {
+  position: absolute;
+  width: 164px;
+  height: 41px;
+  top: 238px;
+  left: 101px;
+}
+
+/* Additional styles truncated for brevity */
+
+  
+  .createacc .div {
+    position: absolute;
+    width: 164px;
+    height: 41px;
+    top: 239px;
+    left: 306px;
+    background-color: #0094ff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #07a3c9;
+    opacity: 0.8;
+  }
+  
+  .createacc .rectangle-2 {
+    position: absolute;
+    width: 164px;
+    height: 41px;
+    top: 306px;
+    left: 100px;
+  }
+  
+  .createacc .rectangle-3 {
+    position: absolute;
+    width: 374px;
+    height: 41px;
+    top: 176px;
+    left: 96px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000;
+    opacity: 0.8;
+  }
+  
+  .createacc .rectangle-4 {
+    position: absolute;
+    width: 374px;
+    height: 41px;
+    top: 373px;
+    left: 100px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .createacc .rectangle-5 {
+    position: absolute;
+    width: 374px;
+    height: 41px;
+    top: 429px;
+    left: 100px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .createacc .rectangle-6 {
+    position: absolute;
+    width: 374px;
+    height: 56px;
+    top: 536px;
+    left: 96px;
+    background-color: #00aaff;
+    border-radius: 8px;
+  }
+  
+  .createacc .text-wrapper {
+    position: absolute;
+    top: 384px;
+    left: 154px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b6b6b6;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .text-wrapper-2 {
+    position: absolute;
+    top: 439px;
+    left: 144px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b6b6b6;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .text-wrapper-3 {
+    position: absolute;
+    top: 552px;
+    left: 227px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .rectangle-7 {
+    position: absolute;
+    width: 24px;
+    height: 20px;
+    top: 493px;
+    left: 115px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .createacc .text-wrapper-4 {
+    position: absolute;
+    top: 491px;
+    left: 155px;
+    font-family: "Poppins-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .already-have-account {
+    position: absolute;
+    top: 617px;
+    left: 115px;
+    font-family: "Poppins-ExtraLight", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .span {
+    font-weight: 200;
+    color: #000000;
+  }
+  
+  .createacc .text-wrapper-5 {
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #0059ff;
+  }
+  
+  .createacc .user-line {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 788px;
+    left: 588px;
+  }
+  
+  .createacc .rectangle-8 {
+    position: absolute;
+    width: 981px;
+    height: 750px;
+    top: 0;
+    left: 750px;
+    background-color: #00142b;
+    border-radius: 38px;
+  }
+  
+  .createacc .compesa {
+    position: absolute;
+    width: 186px;
+    height: 184px;
+    top: 44px;
+    left: 1234px;
+    object-fit: cover;
+  }
+  
+  .createacc .element {
+    position: absolute;
+    width: 420px;
+    height: 118px;
+    top: 306px;
+    left: 968px;
+    object-fit: cover;
+  }
+  
+  .createacc .comped-a-social {
+    position: absolute;
+    width: 335px;
+    top: 416px;
+    left: 1000px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .back-button {
+    position: absolute;
+    width: 58px;
+    height: 49px;
+    top: 44px;
+    left: 650px;
+    background-color: #ffffff;
+    border-radius: 24px;
+    border: 2px solid;
+    border-color: #938e8e;
+  }
+  
+  .createacc .vector {
+    position: absolute;
+    width: 26px;
+    height: 23px;
+    top: 13px;
+    left: 10px;
+  }
+  
+  .createacc .vector-2 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 185px;
+    left: 117px;
+  }
+  
+  .createacc .text-wrapper-6 {
+    position: absolute;
+    top: 186px;
+    left: 176px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b6b6b6;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .vector-3 {
+    position: absolute;
+    width: 13px;
+    height: 9px;
+    top: 192px;
+    left: 433px;
+  }
+  
+  .createacc .vector-4 {
+    position: absolute;
+    width: 13px;
+    height: 9px;
+    top: 323px;
+    left: 234px;
+  }
+  
+  .createacc .vector-5 {
+    position: absolute;
+    width: 22px;
+    height: 18px;
+    top: 385px;
+    left: 115px;
+  }
+  
+  .createacc .vector-6 {
+    position: absolute;
+    width: 21px;
+    height: 23px;
+    top: 438px;
+    left: 115px;
+  }
+  
+  .createacc .student-alumni-user {
+    position: absolute;
+    top: 242px;
+    left: 152px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .text-wrapper-7 {
+    color: #005605;
+  }
+  
+  .createacc .text-wrapper-8 {
+    color: #ffffff;
+    font-size: 10px;
+  }
+  
+  .createacc .officer-admin-access {
+    position: absolute;
+    top: 308px;
+    left: 152px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .text-wrapper-9 {
+    color: #887c01;
+  }
+  
+  .createacc .adviser-full-access {
+    position: absolute;
+    top: 238px;
+    left: 368px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .createacc .text-wrapper-10 {
+    color: #00586d;
+  }
+  
+  .createacc .vector-7 {
+    position: absolute;
+    width: 24px;
+    height: 23px;
+    top: 245px;
+    left: 115px;
+  }
+  
+  .createacc .vector-8 {
+    position: absolute;
+    width: 18px;
+    height: 25px;
+    top: 314px;
+    left: 117px;
+  }
+  
